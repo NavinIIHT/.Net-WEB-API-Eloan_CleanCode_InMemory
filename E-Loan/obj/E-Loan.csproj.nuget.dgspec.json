@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan\\E-Loan.csproj": {}
+    "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan\\E-Loan.csproj": {}
   },
   "projects": {
-    "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj": {
+    "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj",
         "projectName": "E-Loan.BusinessLayer",
-        "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj"
               },
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
+    "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
         "projectName": "E-Loan.DataLayer",
-        "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
+        "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,8 +106,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj"
               }
             }
           }
@@ -128,7 +128,7 @@
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -155,14 +155,14 @@
         }
       }
     },
-    "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+    "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj",
         "projectName": "E-Loan.Entities",
-        "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj",
+        "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj",
         "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -219,14 +219,14 @@
         }
       }
     },
-    "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan\\E-Loan.csproj": {
+    "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan\\E-Loan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan\\E-Loan.csproj",
+        "projectUniqueName": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan\\E-Loan.csproj",
         "projectName": "E-Loan",
-        "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan\\E-Loan.csproj",
+        "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan\\E-Loan.csproj",
         "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan\\obj\\",
+        "outputPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -246,14 +246,14 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.BusinessLayer\\E-Loan.BusinessLayer.csproj"
               },
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj"
               },
-              "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj": {
-                "projectPath": "D:\\IIHT DATA\\Eloan_CleanCode_InMemory2.2\\E-Loan.Entities\\E-Loan.Entities.csproj"
+              "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+                "projectPath": "C:\\Users\\Uma Kumar\\Downloads\\Net-WEB-API-Eloan_CleanCode_InMemory-main\\.Net-WEB-API-Eloan_CleanCode_InMemory-main\\E-Loan.Entities\\E-Loan.Entities.csproj"
               }
             }
           }

@@ -36,3 +36,12 @@ D:\IIHT DATA\Eloan_CleanCode_InMemory2.2\E-Loan.Entities\obj\Debug\netcoreapp2.2
 D:\IIHT DATA\Eloan_CleanCode_InMemory2.2\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.csproj.CoreCompileInputs.cache
 D:\IIHT DATA\Eloan_CleanCode_InMemory2.2\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.dll
 D:\IIHT DATA\Eloan_CleanCode_InMemory2.2\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.pdb
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\bin\Debug\netcoreapp2.2\E-Loan.Entities.deps.json
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\bin\Debug\netcoreapp2.2\E-Loan.Entities.dll
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\bin\Debug\netcoreapp2.2\E-Loan.Entities.pdb
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.AssemblyInfo.cs
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.dll
+C:\Users\Uma Kumar\Downloads\Net-WEB-API-Eloan_CleanCode_InMemory-main\.Net-WEB-API-Eloan_CleanCode_InMemory-main\E-Loan.Entities\obj\Debug\netcoreapp2.2\E-Loan.Entities.pdb
